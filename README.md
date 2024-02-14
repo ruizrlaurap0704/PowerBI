@@ -13,4 +13,4 @@ Dashboard realizado a través de Power BI utilizando como datos de entrada los s
 - VENTAS 2019_INTEGRADOR
 - VENTAS 2020_INTEGRADOR
 
-https://raw.githubusercontent.com/ruizrlaurap0704/PowerBI/main/Dashboard_1.png
+https://raw.githubusercontent.com/ruizrlaurap0704/PowerBI/main/assets/Dashboard_1.png
