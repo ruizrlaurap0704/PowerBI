@@ -1,4 +1,5 @@
 ### Dashboard Ventas Regionales
+A continuación se presenta el proyecto final del módulo Data Analytics & VIsualización del Bootcamp Consultor BI de Eduación IT.
 Dashboard realizado a través de Power BI utilizando como datos de entrada los siguientes archivos CSV:
 - CANAL DE VENTAS_INTEGRADOR
 - CATEGORIAS_INTEGRADOR
@@ -12,6 +13,8 @@ Dashboard realizado a través de Power BI utilizando como datos de entrada los s
 - VENTAS 2018_INTEGRADOR
 - VENTAS 2019_INTEGRADOR
 - VENTAS 2020_INTEGRADOR
+
+
 
 ![No carga la imagen](https://github.com/ruizrlaurap0704/PowerBI/blob/main/Dashboard_1.png)
 
